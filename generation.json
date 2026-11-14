@@ -1,0 +1,16 @@
+{
+  "documentationId": "75c85b6d-922a-4d96-929e-6a576ec219c6",
+  "attemptId": "6a7bd9da-a40f-4abb-9c54-e276e86e0c4e",
+  "repository": "meu-namespace-tini-api-v11",
+  "owner": "devolotus",
+  "documentationRepository": "meu-namespace-tini-api-v11-docs",
+  "sourceUrl": "https://github.com/devolotus/meu-namespace-tini-api-v11",
+  "sourceSha": "f16cca426f0dbe0a6d5cbba81fbc6a4ef9b1a21c",
+  "model": "qwen3.5:4b",
+  "promptVersion": "1",
+  "templateVersion": "1",
+  "generatedAt": "2026-11-14T03:22:43.482456+00:00",
+  "analyzedFiles": 8,
+  "analyzedBytes": 1918,
+  "excludedFiles": 2
+}
